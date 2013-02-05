@@ -62,24 +62,28 @@ $('a').hover(
       ">Tech Blog</a>
 	-->		
       <ol id="menu-list">
-          {% if page.url == '/about.html' %}
+          {% if page.url == '/company.html' %}
             <li><a class="selected" href="/company.html">Company</a></li><span class="seperator">&nbsp;/</span>
           {% else %}
             <li><a href="/company.html">Company</a></li><span class="seperator">&nbsp;/</span>
           {% endif %}
-          {% if page.url != '/company.html' and page.url != '/product.html' %}
+
+          {% if page.url == '/product.html' %}
             <li><a class="selected" href="/products.html">Products</a></li><span class="seperator">&nbsp;/</span>
           {% else %}
             <li><a href="/products.html">Products</a></li><span class="seperator">&nbsp;/</span>
           {% endif %}
 
-          {% if page.url == '/career.html' %}
-            <li><a class="selected" href="/career.html">Career</a></li><span class="seperator">&nbsp;/</span>
+          {% if page.url == '/posts.html' %}
+            <li><a class="selected" href="/posts.html">Techniques</a></li><span class="seperator">&nbsp;/</span>
           {% else %}
-            <li><a href="/career.html">Career</a></li><span class="seperator">&nbsp;/</span>
+            <li><a href="/posts.html">Techniques</a></li><span class="seperator">&nbsp;/</span>
           {% endif %}
+
           <li><a href="/contact.html">Contact</a></li><span class="seperator">&nbsp;/</span>
+
           <li><a href="http://www.facebook.com/pages/Nemoart/404894172938294?fref=ts"><img class="facebook-img" src="/images/facebook-icon.png" /></a></li>
+
         </ol>
     </div>
   
@@ -95,8 +99,8 @@ $('a').hover(
   <div style="margin-bottom: 50px;" class="footer">
     <hr style="margin-top: 20px; margin-bottom: 20px;" />
     <div id="info">
-      <span>© bariblog Inc. All rights reserved.</span>
-      <span>powerd by <a style="color: gray;" href="http://pages.github.com/">pages</a></span>
+      <span>Bari Inc. All rights reserved.</span>
+      <span>powerd by <a style="color: write;" href="http://pages.github.com/">pages</a></span>
     </div>
   </div>
 
