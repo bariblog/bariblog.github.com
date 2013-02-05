@@ -1,0 +1,231 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>App manifests, an anthology. - Tobie Langel</title>
+  <meta name="author" content="Tobie Langel">
+
+  
+  <meta name="description" content="For some inexplicable reason the proliferation of market places for web apps has induced a proportional growth of custom manifest formats. Each app &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://tobie.github.com/blog/2011/12/15/14262541286">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Tobie Langel" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   class="no-sidebar"  >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Tobie Langel</a></h1>
+  
+    <h2>Things.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation">
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:tobie.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">App Manifests, an Anthology.</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-12-15T00:00:00+01:00" pubdate data-updated="true">Dec 15<span>th</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>For some inexplicable reason the proliferation of market places for web apps has induced a proportional growth of custom manifest formats. Each app store, each platform now sports its own. And web developers <em>love</em> that latest trend. It helps them remember important information like their application&#8217;s name, its URL, or the relative path to its icon. It also keeps their JSON and XML coding skills sharp. Those who dislike this new trend will just get used to it through sheer repetition.</p>
+
+
+
+<p><img src="http://imgs.xkcd.com/comics/standards.png" alt="An XKCD comic"/></p>
+
+
+
+<p>Yesterday&#8217;s otherwise <a href="http://hacks.mozilla.org/2011/12/mozilla-labs-apps-preview/">exciting news</a> bring our manifest count to eight (ten if we consider CommonJS packages and AppCache as playing in the same field). Time to recapitulate.</p>
+
+
+
+<h2>Tour d&#8217;horizon</h2>
+
+
+
+<p><a href="http://www.w3.org/TR/widgets/">W3C Widgets</a> is the only one that&#8217;s <em>actually a standard</em>. It&#8217;s XML and has been used by both <a href="http://www.opera.com/widgets/">Opera</a> and <a href="http://phonegap.com/">PhoneGap</a> for quite a while.</p>
+
+
+
+<p>Until recently, Google also seemed to favor XML for its manifests, but preferred when it came in different flavors. Apps built for the <a href="http://code.google.com/googleapps/marketplace/">Google Apps Marketplace</a> have <a href="http://code.google.com/googleapps/marketplace/manifest.html">their own custom format</a>. Unsurprisingly, Google Gadgets do too. And it&#8217;s <a href="http://code.google.com/apis/gadgets/docs/reference.html">totally different</a>.</p>
+
+
+
+<p>Now that <a href="https://twitter.com/#!/miketaylr/status/146655365562503168">JSON is all the rage</a> however, Google dropped XML in its favor. Manifests for the new <a href="http://www.google.com/chrome/intl/en/more/webstore.html">Chrome store</a> are <a href="http://code.google.com/chrome/apps/docs/developers_guide.html#manifest">authored in JSON</a>.</p>
+
+
+
+<p>While we&#8217;re on the subject of JSON, let&#8217;s not forget <a href="https://developer.palm.com/content/api/reference/config/appinfo.json.html">webOS&#8217;s similar but not compatible format</a> and <a href="https://developer.mozilla.org/en/Apps/Manifest">Mozilla&#8217;s brand new one</a> which at least seems to share some resemblance with Google&#8217;s. With the rise in popularity of node.js, <a href="http://wiki.commonjs.org/wiki/Modules/1.1">CommonJS modules</a> and <a href="https://github.com/amdjs/amdjs-api/wiki/AMD">AMD</a>, the <a href="http://wiki.commonjs.org/wiki/Packages/1.1">CommonJS package spec</a> also deserves a mention, as it&#8217;s getting used more and more when building rich client-side applications.</p>
+
+
+
+<p>Of course, this general survey wouldn&#8217;t be complete without having a look at Windows 8&#8217;s <a href="http://tozon.info/blog/post/2011/09/30/Windows-8-Metro-style-application-manifest.aspx">upcoming format</a> for <a href="http://msdn.microsoft.com/en-us/windows/apps">Metro style apps</a>&#8212;lo and behold, it&#8217;s XML… and not spec-compliant to boot&#8212;and iOS&#8217;s hacky but effective <a href="http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html">use of META tags</a>.</p>
+
+
+
+<p>Finally one cannot ignore the elephant in the room: <a href="http://dev.w3.org/html5/spec/Overview.html#manifests">AppCache</a>. Arguably not an app manifest <em>per se</em>, it&#8217;s still yet another file developers will have to tack on to their projects. It also has some overlap with the W3C Widgets spec. Did I mention it&#8217;s neither JSON nor XML, but a custom, line-delimited format?</p>
+
+
+
+<h2>Interoperability [REDACTED], do you speak it?</h2>
+
+
+
+<p>I don&#8217;t think anyone with the web&#8217;s best interest in mind would disagree that this plethora of formats is damaging. Why can&#8217;t we agree on a single format to describe literally the same thing: app meta-data with, eventually, some platform- or store-specific data sprinkled on top of it?</p>
+
+
+
+<p>If the W3C Widgets spec is broken, let&#8217;s fix it. If this is about XML vs. JSON, let&#8217;s modify the spec so JSON works with it too. If the spec is broken beyond repair, let&#8217;s say so and come up with something better. And if it ill-named (and it is!), let&#8217;s rename it. Else we&#8217;re just shooting ourselves in the foot.</p>
+
+
+
+<hr><p><strong>Update:</strong> <a href="http://www.brucelawson.co.uk">Bruce Lawson</a> rightfully <a href="http://www.brucelawson.co.uk/2011/installable-web-apps-and-interoperability/">points out</a> Mozilla had an affair with a <a href="https://developer.mozilla.org/en/Install_Manifests">custom XML format</a> in the past.</p>
+
+
+
+<p><strong>Update 2:</strong> <a href="http://roderick.dk">Morgan Roderick</a> <a href="https://twitter.com/#!/mrgnrdrck/status/147343385974423552">reminds me</a> I&#8217;ve also forgotten about Apple Dashboard widgets (<a href="http://developer.apple.com/library/mac/#documentation/CoreFoundation/Conceptual/CFPropertyLists/Articles/XMLTags.html#//apple_ref/doc/uid/20001172-CJBEJBHH">proprietary XML</a>) and <a href="http://manual.widgets.yahoo.com/Basics_WidgetMetadata.html#1096417">Yahoo widgets</a> (custom XML).</p>
+
+
+
+<hr><p><em>Image source: <a href="http://xkcd.com/927/">XKCD</a>.</em></p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn"><a href="/about" title="About the author (Tobie Langel)" rel="author">Tobie Langel</a></span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-12-15T00:00:00+01:00" pubdate data-updated="true">Dec 15<span>th</span>, 2011</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2011/12/15/14236100708/" title="Previous Post: 14236100708">&laquo; 14236100708</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2012/01/21/16197749324/" title="next Post: 16197749324">16197749324 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Tobie Langel -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
