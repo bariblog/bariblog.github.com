@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tobie Langel]]></title>
+  <link href="http://tobie.github.com/atom.xml" rel="self"/>
+  <link href="http://tobie.github.com/"/>
+  <updated>2012-07-19T14:17:49+02:00</updated>
+  <id>http://tobie.github.com/</id>
+  <author>
+    <name><![CDATA[Tobie Langel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[24875885526]]></title>
+    <link href="http://tobie.github.com/blog/2012/06/11/24875885526/"/>
+    <updated>2012-06-11T00:00:00+02:00</updated>
+    <id>http://tobie.github.com/blog/2012/06/11/24875885526</id>
+    <content type="html"><![CDATA[<blockquote>The idea that walking around with a seven-pound ReWalk system is healthier for your body than using a wheelchair is wishful thinking, to use the kindest phrase I can summon.</blockquote>&#8212;Rachel Cohen-Rottenberg, <a href="http://www.disabilityandrepresentation.com/2012/06/08/the-imperative-to-be-abled/">The Imperative to Be Abled: The ReWalk Exoskeleton Disability and Representation</a>.
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[23438461648]]></title>
+    <link href="http://tobie.github.com/blog/2012/05/20/23438461648/"/>
+    <updated>2012-05-20T00:00:00+02:00</updated>
+    <id>http://tobie.github.com/blog/2012/05/20/23438461648</id>
+    <content type="html"><![CDATA[<blockquote>Next time someone asks if you want to crash at their hacker mansion for the summer […] or team up for a 24-hour hackathon, think twice. They’re probably just trying to cash in on your youth and optimism.</blockquote>&#8212;Ryan Carson, <a href="http://ryanleecarson.tumblr.com/post/23432270643/im-tired-of-the-opportunists-and-their-hackathons">I’m tired of the opportunists and their hackathons</a>.
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[23092028789]]></title>
+    <link href="http://tobie.github.com/blog/2012/05/15/23092028789/"/>
+    <updated>2012-05-15T00:00:00+02:00</updated>
+    <id>http://tobie.github.com/blog/2012/05/15/23092028789</id>
+    <content type="html"><![CDATA[<blockquote>[Y]ou’ve already chosen the medium to make your argument, and it’s your actual design work. By moving from the artifact to words, you game the system: your users won’t have access to your words when they receive your argument in the form of the final design. All they have is the thing you’ve made, and so it needs to offer the complete argument on its own.</blockquote>&#8212;Jon Kolko, <a href="http://www.ac4d.com/2012/04/30/do-you-want-critique-or-a-hug/">Do you want critique, or a hug? How to gain valuable criticism on your design</a>.
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[23071126971]]></title>
+    <link href="http://tobie.github.com/blog/2012/05/15/23071126971/"/>
+    <updated>2012-05-15T00:00:00+02:00</updated>
+    <id>http://tobie.github.com/blog/2012/05/15/23071126971</id>
+    <content type="html"><![CDATA[<blockquote>When we outsource war to private military contractors, and when we have separate, shorter lines for airport security for those who can afford them, the result is that the affluent and those of modest means live increasingly separate lives, and the class-mixing institutions and public spaces that forge a sense of common experience and shared citizenship get eroded.</blockquote>&#8212;Thomas L. Friedman, <a href="http://www.nytimes.com/2012/05/13/opinion/sunday/friedman-this-column-is-not-sponsored-by-anyone.html">This Column Is Not Sponsored by Anyone</a>.
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[22350919937]]></title>
+    <link href="http://tobie.github.com/blog/2012/05/04/22350919937/"/>
+    <updated>2012-05-04T00:00:00+02:00</updated>
+    <id>http://tobie.github.com/blog/2012/05/04/22350919937</id>
+    <content type="html"><![CDATA[<blockquote>There was a research study in marketing that if you offer people 24 different types of jellies, you’re not going to sell as many as if you offer them six.</blockquote>&#8212;Pam Danziger, <a href="http://www.cnbc.com/id/47175492">Costco: Breaking All the Retail Rules</a>.
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[22193424458]]></title>
+    <link href="http://tobie.github.com/blog/2012/05/01/22193424458/"/>
+    <updated>2012-05-01T00:00:00+02:00</updated>
+    <id>http://tobie.github.com/blog/2012/05/01/22193424458</id>
+    <content type="html"><![CDATA[<blockquote>The factors that allow programs in functional languages to sometimes be more concise than imperative implementations are pretty much orthogonal to the use of pure functions — garbage collection, powerful built in types, pattern matching, list comprehensions, function composition, various bits of syntactic sugar, etc. For the most part, these size reducers don’t have much to do with being functional, and can also be found in some imperative languages.</blockquote>&#8212;John Carmack, <a href="http://www.altdevblogaday.com/2012/04/26/functional-programming-in-c/">Functional Programming in C++</a>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[21842124553]]></title>
+    <link href="http://tobie.github.com/blog/2012/04/26/21842124553/"/>
+    <updated>2012-04-26T00:00:00+02:00</updated>
+    <id>http://tobie.github.com/blog/2012/04/26/21842124553</id>
+    <content type="html"><![CDATA[<blockquote>A palliative care nurse called Bronnie Ware made a list of the biggest regrets of the dying. […] If you had to compress them into a single piece of advice, it might be: don&#8217;t be a cog.</blockquote>&#8212;Paul Graham, <a href="http://paulgraham.com/todo.html">The Top of My Todo List</a>.
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[20960772975]]></title>
+    <link href="http://tobie.github.com/blog/2012/04/12/20960772975/"/>
+    <updated>2012-04-12T00:00:00+02:00</updated>
+    <id>http://tobie.github.com/blog/2012/04/12/20960772975</id>
+    <content type="html"><![CDATA[<blockquote>Don’t use Cucumber unless you live in the magic kingdom of non-programmers-writing-tests (and send me a bottle of fairy dust if you’re there!)</blockquote>&#8212;DHH, <a href="http://37signals.com/svn/posts/3159-testing-like-the-tsa">Testing like the TSA</a>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[20960545343]]></title>
+    <link href="http://tobie.github.com/blog/2012/04/12/20960545343/"/>
+    <updated>2012-04-12T00:00:00+02:00</updated>
+    <id>http://tobie.github.com/blog/2012/04/12/20960545343</id>
+    <content type="html"><![CDATA[<blockquote>Every line of code you write has a cost. It takes time to write it, it takes time to update it, and it takes time to read and understand it. Thus it follows that the benefit derived must be greater than the cost to make it.</blockquote>&#8212;DHH, <a href="http://37signals.com/svn/posts/3159-testing-like-the-tsa">Testing like the TSA</a>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[20838147894]]></title>
+    <link href="http://tobie.github.com/blog/2012/04/10/20838147894/"/>
+    <updated>2012-04-10T00:00:00+02:00</updated>
+    <id>http://tobie.github.com/blog/2012/04/10/20838147894</id>
+    <content type="html"><![CDATA[<blockquote>The commenters mainly took a shit on the app and the concept. […] That’s why they’re commenters and not out there building things.</blockquote>&#8212;MG Siegler, <a href="http://parislemon.com/post/20833947117/one-burbn-one-scotch-one-beer">One Burbn, One Scotch, One Beer</a>.
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[20532685520]]></title>
+    <link href="http://tobie.github.com/blog/2012/04/05/20532685520/"/>
+    <updated>2012-04-05T00:00:00+02:00</updated>
+    <id>http://tobie.github.com/blog/2012/04/05/20532685520</id>
+    <content type="html"><![CDATA[<blockquote>Real artists ship, dabblers create concept products.</blockquote>&#8212;Kontra, <a href="http://counternotions.com/2008/08/12/concept-products/">Why Apple doesn’t do “Concept Products”</a>.
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[20168708090]]></title>
+    <link href="http://tobie.github.com/blog/2012/03/30/20168708090/"/>
+    <updated>2012-03-30T00:00:00+02:00</updated>
+    <id>http://tobie.github.com/blog/2012/03/30/20168708090</id>
+    <content type="html"><![CDATA[<blockquote>[…] we should recognize that the criminal law is least effective — and least legitimate — when it is at odds with widely held moral intuitions.</blockquote>&#8212;Prof. Stuart P. Green, <a href="http://www.nytimes.com/2012/03/29/opinion/theft-law-in-the-21st-century.html?_r=2&amp;pagewanted=all">‘Theft’ Law in the 21st Century</a>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[19625073063]]></title>
+    <link href="http://tobie.github.com/blog/2012/03/20/19625073063/"/>
+    <updated>2012-03-20T00:00:00+01:00</updated>
+    <id>http://tobie.github.com/blog/2012/03/20/19625073063</id>
+    <content type="html"><![CDATA[<blockquote>Responsive design is the real deal. It is not a fad. It’s a legitimate attempt to address the massive challenge of delivering great experiences to this explosion of devices and browsers. But don’t feel like it’s the end-all be-all of website construction. This aint religion. This is web design.</blockquote>&#8212;Brad Frost, <a href="http://bradfrostweb.com/blog/web/responsive-web-design-missing-the-point/">Responsive Web Design: Missing the Point</a>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[19314570146]]></title>
+    <link href="http://tobie.github.com/blog/2012/03/15/19314570146/"/>
+    <updated>2012-03-15T00:00:00+01:00</updated>
+    <id>http://tobie.github.com/blog/2012/03/15/19314570146</id>
+    <content type="html"><![CDATA[<blockquote>I’m embarrassed by the patents I filed, but I’ve learned from my mistake. I’ll never file a software patent again, and I urge you to do the same.</blockquote>&#8212;Andy Baio, <a href="http://www.wired.com/epicenter/2012/03/opinion-baio-yahoo-patent-lie/">A Patent Lie: How Yahoo Weaponized My Work</a>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[19312436112]]></title>
+    <link href="http://tobie.github.com/blog/2012/03/15/19312436112/"/>
+    <updated>2012-03-15T00:00:00+01:00</updated>
+    <id>http://tobie.github.com/blog/2012/03/15/19312436112</id>
+    <content type="html"><![CDATA[<blockquote>Another time, I was bypassing screening (again on official FBI business) with my .40 caliber semi-automatic pistol, and a TSA officer noticed the clip of my pocket knife. &#8220;You can&#8217;t bring a knife on board,&#8221; he said. I looked at him incredulously and asked, &#8220;The semi-automatic pistol is okay, but you don&#8217;t trust me with a knife?&#8221; His response was equal parts predictable and frightening, &#8220;But knives are not allowed on the planes.</blockquote>&#8212;Steve Moore, <a href="http://gmancasefile.blogspot.in/2012/01/tsa-fail.html">TSA: Fail</a>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[17908867601]]></title>
+    <link href="http://tobie.github.com/blog/2012/02/19/17908867601/"/>
+    <updated>2012-02-19T00:00:00+01:00</updated>
+    <id>http://tobie.github.com/blog/2012/02/19/17908867601</id>
+    <content type="html"><![CDATA[<blockquote>&#8216;Real artists ship&#8217; and all that but a ruthless artist will fix the problem first thing in the next release so they can keep shipping again and again and again.</blockquote>&#8212;Chris Parker , <a href="http://playswithfire.com/blog/2012/02/19/you-are-not-ruthless-enough/">You Are Not Ruthless Enough</a>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[17705574536]]></title>
+    <link href="http://tobie.github.com/blog/2012/02/16/17705574536/"/>
+    <updated>2012-02-16T00:00:00+01:00</updated>
+    <id>http://tobie.github.com/blog/2012/02/16/17705574536</id>
+    <content type="html"><![CDATA[<blockquote>The liberal members of the upper tribe latch onto this top 1 percent narrative because it excuses them from the central role they themselves are playing in driving inequality and unfairness.</blockquote>&#8212;David Brooks, <a href="http://www.nytimes.com/2012/01/31/opinion/brooks-the-great-divorce.html?_r=1&amp;ref=davidbrooks">The Great Divorce</a>.
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[16281595024]]></title>
+    <link href="http://tobie.github.com/blog/2012/01/22/16281595024/"/>
+    <updated>2012-01-22T00:00:00+01:00</updated>
+    <id>http://tobie.github.com/blog/2012/01/22/16281595024</id>
+    <content type="html"><![CDATA[<blockquote>[…] raising your hand is itself a high-cost signal that you are willing to risk public failure in order to try something.</blockquote>&#8212;Clay Shirky, <a href="http://www.shirky.com/weblog/2010/01/a-rant-about-women">A Rant About Women</a>.
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[16197749324]]></title>
+    <link href="http://tobie.github.com/blog/2012/01/21/16197749324/"/>
+    <updated>2012-01-21T00:00:00+01:00</updated>
+    <id>http://tobie.github.com/blog/2012/01/21/16197749324</id>
+    <content type="html"><![CDATA[<blockquote>Make good stuff, then make it easy for people to buy it. There’s your anti-piracy plan. The big content companies are TERRIBLE at doing both of these things, so it’s no wonder they’re not doing so well in the current environment.</blockquote>&#8212;Jonathan Coulton, <a href="http://www.jonathancoulton.com/2012/01/21/megaupload/">MegaUpload</a>.
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[App manifests, an anthology.]]></title>
+    <link href="http://tobie.github.com/blog/2011/12/15/14262541286/"/>
+    <updated>2011-12-15T00:00:00+01:00</updated>
+    <id>http://tobie.github.com/blog/2011/12/15/14262541286</id>
+    <content type="html"><![CDATA[<p>For some inexplicable reason the proliferation of market places for web apps has induced a proportional growth of custom manifest formats. Each app store, each platform now sports its own. And web developers <em>love</em> that latest trend. It helps them remember important information like their application&#8217;s name, its URL, or the relative path to its icon. It also keeps their JSON and XML coding skills sharp. Those who dislike this new trend will just get used to it through sheer repetition.</p>
+
+
+
+<p><img src="http://imgs.xkcd.com/comics/standards.png" alt="An XKCD comic"/></p>
+
+
+
+<p>Yesterday&#8217;s otherwise <a href="http://hacks.mozilla.org/2011/12/mozilla-labs-apps-preview/">exciting news</a> bring our manifest count to eight (ten if we consider CommonJS packages and AppCache as playing in the same field). Time to recapitulate.</p>
+
+
+
+<h2>Tour d&#8217;horizon</h2>
+
+
+
+<p><a href="http://www.w3.org/TR/widgets/">W3C Widgets</a> is the only one that&#8217;s <em>actually a standard</em>. It&#8217;s XML and has been used by both <a href="http://www.opera.com/widgets/">Opera</a> and <a href="http://phonegap.com/">PhoneGap</a> for quite a while.</p>
+
+
+
+<p>Until recently, Google also seemed to favor XML for its manifests, but preferred when it came in different flavors. Apps built for the <a href="http://code.google.com/googleapps/marketplace/">Google Apps Marketplace</a> have <a href="http://code.google.com/googleapps/marketplace/manifest.html">their own custom format</a>. Unsurprisingly, Google Gadgets do too. And it&#8217;s <a href="http://code.google.com/apis/gadgets/docs/reference.html">totally different</a>.</p>
+
+
+
+<p>Now that <a href="https://twitter.com/#!/miketaylr/status/146655365562503168">JSON is all the rage</a> however, Google dropped XML in its favor. Manifests for the new <a href="http://www.google.com/chrome/intl/en/more/webstore.html">Chrome store</a> are <a href="http://code.google.com/chrome/apps/docs/developers_guide.html#manifest">authored in JSON</a>.</p>
+
+
+
+<p>While we&#8217;re on the subject of JSON, let&#8217;s not forget <a href="https://developer.palm.com/content/api/reference/config/appinfo.json.html">webOS&#8217;s similar but not compatible format</a> and <a href="https://developer.mozilla.org/en/Apps/Manifest">Mozilla&#8217;s brand new one</a> which at least seems to share some resemblance with Google&#8217;s. With the rise in popularity of node.js, <a href="http://wiki.commonjs.org/wiki/Modules/1.1">CommonJS modules</a> and <a href="https://github.com/amdjs/amdjs-api/wiki/AMD">AMD</a>, the <a href="http://wiki.commonjs.org/wiki/Packages/1.1">CommonJS package spec</a> also deserves a mention, as it&#8217;s getting used more and more when building rich client-side applications.</p>
+
+
+
+<p>Of course, this general survey wouldn&#8217;t be complete without having a look at Windows 8&#8217;s <a href="http://tozon.info/blog/post/2011/09/30/Windows-8-Metro-style-application-manifest.aspx">upcoming format</a> for <a href="http://msdn.microsoft.com/en-us/windows/apps">Metro style apps</a>&#8212;lo and behold, it&#8217;s XML… and not spec-compliant to boot&#8212;and iOS&#8217;s hacky but effective <a href="http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html">use of META tags</a>.</p>
+
+
+
+<p>Finally one cannot ignore the elephant in the room: <a href="http://dev.w3.org/html5/spec/Overview.html#manifests">AppCache</a>. Arguably not an app manifest <em>per se</em>, it&#8217;s still yet another file developers will have to tack on to their projects. It also has some overlap with the W3C Widgets spec. Did I mention it&#8217;s neither JSON nor XML, but a custom, line-delimited format?</p>
+
+
+
+<h2>Interoperability [REDACTED], do you speak it?</h2>
+
+
+
+<p>I don&#8217;t think anyone with the web&#8217;s best interest in mind would disagree that this plethora of formats is damaging. Why can&#8217;t we agree on a single format to describe literally the same thing: app meta-data with, eventually, some platform- or store-specific data sprinkled on top of it?</p>
+
+
+
+<p>If the W3C Widgets spec is broken, let&#8217;s fix it. If this is about XML vs. JSON, let&#8217;s modify the spec so JSON works with it too. If the spec is broken beyond repair, let&#8217;s say so and come up with something better. And if it ill-named (and it is!), let&#8217;s rename it. Else we&#8217;re just shooting ourselves in the foot.</p>
+
+
+
+<hr><p><strong>Update:</strong> <a href="http://www.brucelawson.co.uk">Bruce Lawson</a> rightfully <a href="http://www.brucelawson.co.uk/2011/installable-web-apps-and-interoperability/">points out</a> Mozilla had an affair with a <a href="https://developer.mozilla.org/en/Install_Manifests">custom XML format</a> in the past.</p>
+
+
+
+<p><strong>Update 2:</strong> <a href="http://roderick.dk">Morgan Roderick</a> <a href="https://twitter.com/#!/mrgnrdrck/status/147343385974423552">reminds me</a> I&#8217;ve also forgotten about Apple Dashboard widgets (<a href="http://developer.apple.com/library/mac/#documentation/CoreFoundation/Conceptual/CFPropertyLists/Articles/XMLTags.html#//apple_ref/doc/uid/20001172-CJBEJBHH">proprietary XML</a>) and <a href="http://manual.widgets.yahoo.com/Basics_WidgetMetadata.html#1096417">Yahoo widgets</a> (custom XML).</p>
+
+
+
+<hr><p><em>Image source: <a href="http://xkcd.com/927/">XKCD</a>.</em></p>
+]]></content>
+  </entry>
+  
+</feed>

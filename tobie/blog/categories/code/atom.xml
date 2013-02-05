@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: code | Tobie Langel]]></title>
+  <link href="http://tobie.github.com/blog/categories/code/atom.xml" rel="self"/>
+  <link href="http://tobie.github.com/"/>
+  <updated>2012-07-19T14:17:49+02:00</updated>
+  <id>http://tobie.github.com/</id>
+  <author>
+    <name><![CDATA[Tobie Langel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[mobile-bookmark-bubble]]></title>
+    <link href="http://tobie.github.com/blog/2011/06/06/6259785748/"/>
+    <updated>2011-06-06T00:00:00+02:00</updated>
+    <id>http://tobie.github.com/blog/2011/06/06/6259785748</id>
+    <content type="html"><![CDATA[<p><a href="http://code.google.com/p/mobile-bookmark-bubble/">[code] mobile-bookmark-bubble</a><br/><p>The Mobile Bookmark Bubble is a JavaScript library that adds a promo bubble to the bottom of your mobile web application, inviting users to bookmark the app to their device&#8217;s home screen. The library uses HTML5 local storage to track whether the promo has been displayed already, to avoid constantly nagging users.</p></p>
+]]></content>
+  </entry>
+  
+</feed>
