@@ -1,2 +1,0 @@
-bariblog.github.com
-===================
